@@ -8,8 +8,11 @@ The objective of this project is to utilize stroke data to create a predictive m
 Team Members:
 
 •	Aisha Henderson
+
 •	Kelly Blake 
+
 •	Rajeshwari Radharkrishna
+
 •	Elona Barjami 
 
 
@@ -20,9 +23,13 @@ Research Questions:
 4.	Are patients with hypertension vs patients with heart disease more likely to have a stroke?
 
 Task Distribution:
+
 • Elona Barjami - Research question 1
+
 • Kelly Blake - Research question 2, Data cleaning
+
 • Aisha Henderson - Research question 3, Presentation
+
 • Rajeshwari Radhakrishna - Research question 4, Github
    
 Dataset to Be Used
