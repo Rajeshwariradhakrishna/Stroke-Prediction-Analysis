@@ -29,7 +29,7 @@ The objective of this project is to utilize stroke data to create a predictive m
 •	Elona Barjami 
 
 
-**Research Questions:**
+Research Questions:
 1.	Does a person’s residency type increase the risk of having a stroke? Are individuals that live in Urban settings more likely to have a stroke vs. those that live in a Rural setting?
 2.	Are males over 60 at a higher risk of having a stroke compared to males overall? Does smoking status (current smoker) have an impact on the likelihood of stroke for both populations?
 3.	Are patients with hypertension vs patients with heart disease more likely to have a stroke?
