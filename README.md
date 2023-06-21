@@ -2,7 +2,7 @@
 
 **About the stroke:**
 
-Stroke interrupts blood flow to an area of the brain. Strokes can be fatal, but the risk can be reduced. Many stroke risk factors are lifestyle related, so everyone has the power to reduce their risk of having a stroke. More than 80% of strokes can be prevented. If you have had a stroke, you are at high risk for another stroke. 1 in 4 stroke survivors has another stroke within 5 years.You are likely to experience some physical and neurological complications after a stroke. These complications may be minor or major, and the complications may be temporary or permanent depending on the size of the stroke and what part of the brain was affected.
+Stroke interrupts blood flow to an area of the brain. Strokes can be fatal, but the risk can be reduced. Many stroke risk factors are lifestyle related, so everyone has the power to reduce their risk of having a stroke. More than 80% of strokes can be prevented. If you have had a stroke, you are at high risk for another stroke. 1 in 4 stroke survivors has another stroke within 5 years. You are likely to experience some physical and neurological complications after a stroke. These complications may be minor or major, and the complications may be temporary or permanent depending on the size of the stroke and what part of the brain was affected.
 
 **About the Dataset:**
 
