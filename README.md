@@ -52,7 +52,7 @@ Research Questions:
 
 
 **Research Question 1:** Does a person’s residency type increase the risk of having a stroke? Are individuals that live in Urban settings more likely to have a stroke vs. those that live in a Rural setting?
-1. My analysis of this dataset resulted in a null hypothesis for residency type affecting the likelihood of stroke, which directly contradicted my further research. I also analyzedthe percentages of each residency type and they were also very similar. The dataset documentation did not indicate when or where the sample was taken.
+1. My analysis of this dataset resulted in a null hypothesis for residency type affecting the likelihood of stroke, which directly contradicted my further research. I also analyzed the percentages of each residency type and they were also very similar. The dataset documentation did not indicate when or where the sample was taken.
 2. Overall I concluded the following: • There are striking and growing disparities in treatment for acute stroke in rural versus urban areas. Although rural residents are more likely to have a usual source of health care (“a place to which they usually go when they are sick”), they are still less likely to have a local hospital and physician, more likely to be uninsured, and tend to report fewer annual health care visits. Such disparities may have an impact on stroke incidence in rural and urban areas given that the availability of health care resources has a strong influence on risk factor prevalence, awareness, treatment, and control. • Stroke mortality is higher in rural compared with urban areas of the United States, and this seems to be because of higher stroke incidence rather than stroke case fatality. • Embolic strokes are caused by a blood clot or plaque debris that develops elsewhere in the body and then travels to one of the blood vessels in the brain through the bloodstream and occur more frequently in urban populations • Thrombotic strokes are caused by a blood clot that develops in the blood vessels inside the brain and are more prevalent in rural populations. Sources: https://www.hopkinsmedicine.org/health/conditions-and-diseases/stroke https://newsroom.heart.org/news/disparities-in-stroke-care-at-urban-vs-rural-hospitals-impacts-quality-of-care-patient-survival
 
 **Question 1, Graphic 1**
@@ -87,11 +87,11 @@ When calculating the rate of stroke based on smoking status, it was determined t
 
 **Research Question 3:** Are patients with hypertension vs patients with heart disease more likely to have a stroke?
 
-1. Our dataset shows people are high likely to get hypertension than heart disease. 
+1. Our dataset showed a higher percentage of the population had hypertension over heart disease. 
 
-2. Percentage of people who has hypertesnion got stroke is higher than percentage of people who doesn't have hypertension got stroke. Percentage of people who has heart disease got stroke is higher than percentage of people who doesn't have heart disease got stroke.
+2. The percentage of people who have hypertesnion and had a stroke is higher than percentage of people who don't have hypertension who had a stroke. The percentage of people who have heart disease and had a stroke is higher than percentage of people who don't have heart disease who had a stroke.
 
-3. It's not necessarily mean that people who has hypertension/heart disease will definetly have a stroke. There can be other factors which can cause a stroke in people. But there is high likely chance that people with hypertension and heart disease will be at the biggest risk of having a stroke.
+3. It does not necessarily mean that people who has hypertension/heart disease will definetly have a stroke. There can be other factors which can cause a stroke in people. But there is high likely chance that people with hypertension and heart disease will be at the biggest risk of having a stroke.
 
 4. Hypertesnion is the biggest risk factor for stroke. People with hypertension who got stroke is higher than people with heart disease who had stroke. People with hypertension had stroke is 62.8% and people with heart disease had a stroke is 37.2%.
 
@@ -108,6 +108,15 @@ When calculating the rate of stroke based on smoking status, it was determined t
 ![image](https://github.com/Rajeshwariradhakrishna/Stroke-Prediction-Analysis/assets/131278014/4e2e29a8-15a5-46f4-b538-932b8de67d79)
 
 
+**Conclusion and Findings**
+In conclusion, based on our analysis of the three research questions we found that:
+
+1. There is no statistical significance in the rate of stroke for Urban vs Rural populations. The null hypothesis was proven to be true through analysis via Chi-Square testing and review of the p-value of these factors.
+   
+2. Males over the age of 60 have a higher risk of experiencing a stroke, over males ages 20 - 59 years of age. When looking at smoking status and the impact on stroke for the combined male population over 20, it was found that 3% of male non-smokers had a stroke, vs 2% of male smokers who had a stroke, indicating low correlation between smoking status and the risk of stroke.
+
+3. Lastly, The percentage of people who have hypertesnion and had a stroke is higher than percentage of people who don't have hypertension who had a stroke. The percentage of people who have heart disease and had a stroke is higher than percentage of people who don't have heart disease who had a stroke.
+   
 **Data Limitations:**
 
 The limitations of this dataset include a lack of information about where the sample population comes from (i.e, where they live, access to prevention and healthcare services, etc), as this information would prove useful in determining other contributing risks.
