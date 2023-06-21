@@ -55,17 +55,35 @@ Research Questions:
 1. My analysis of this dataset resulted in a null hypothesis for residency type affecting the likelihood of stroke, which directly contradicted my further research. I also analyzedthe percentages of each residency type and they were also very similar. The dataset documentation did not indicate when or where the sample was taken.
 2. Overall I concluded the following: • There are striking and growing disparities in treatment for acute stroke in rural versus urban areas. Although rural residents are more likely to have a usual source of health care (“a place to which they usually go when they are sick”), they are still less likely to have a local hospital and physician, more likely to be uninsured, and tend to report fewer annual health care visits. Such disparities may have an impact on stroke incidence in rural and urban areas given that the availability of health care resources has a strong influence on risk factor prevalence, awareness, treatment, and control. • Stroke mortality is higher in rural compared with urban areas of the United States, and this seems to be because of higher stroke incidence rather than stroke case fatality. • Embolic strokes are caused by a blood clot or plaque debris that develops elsewhere in the body and then travels to one of the blood vessels in the brain through the bloodstream and occur more frequently in urban populations • Thrombotic strokes are caused by a blood clot that develops in the blood vessels inside the brain and are more prevalent in rural populations. Sources: https://www.hopkinsmedicine.org/health/conditions-and-diseases/stroke https://newsroom.heart.org/news/disparities-in-stroke-care-at-urban-vs-rural-hospitals-impacts-quality-of-care-patient-survival
 
+**Question 1, Graphic 1**
+![image](https://github.com/Rajeshwariradhakrishna/Stroke-Prediction-Analysis/assets/131278014/7e944b67-01bd-4f0e-a525-3a62deacc2bc)
+
 
 **Research Question 2:** Is the rate of stroke higher in males who are older than 60 vs males between ages 20 - 59? For this combined population, does smoking status have an impact on the rate of stroke?
 
 1. Part 1 of the analysis seeks to compare the risk of stroke, based on gender and age as factors.
 The first visualization captures the rate of stroke for males over 60 years old. This indicates that 12.4% of males in this population had a stroke, versus 87.6% of males in this population who did not have a stroke.
 The second visualization captures the rate of stroke for males between 20 - 59 years old. Findings indicate only 2.3% of males had a stroke, and 97.7% of males in this population group that did not have a stroke.
-When combining the datasets to compare both age groups (60+ and 20 - 59), we can conclude based on the statistics that males over 60 years old are at a greater risk for stroke, with 4.4% having had a stroke. Males ages 20 - 59 years old who had a stroke is only 1.5%
+When combining the datasets to compare both age groups (60+ and 20 - 59), we can conclude based on the statistics that males over 60 years old are at a greater risk for stroke, with 4.4% having had a stroke. Males ages 20 - 59 years old who had a stroke is only 1.5%. When conducting an independent T-test, a statistic of 6.6 and a p-value of 5.6 indicate there is a correlation between age and the risk of stroke.
+
+**Question 2, Graphic 1**
+![image](https://github.com/Rajeshwariradhakrishna/Stroke-Prediction-Analysis/assets/131278014/cf1ddca7-5131-495f-9e7c-547bef6847c7)
+
+
+**Question 2, Graphic 2**
+![image](https://github.com/Rajeshwariradhakrishna/Stroke-Prediction-Analysis/assets/131278014/3330d805-96d3-4601-b743-99033f510987)
+
+**Question 2, Graphic 3**
+![image](https://github.com/Rajeshwariradhakrishna/Stroke-Prediction-Analysis/assets/131278014/e8c3f4a0-57ba-4cea-8be9-74688aba608f)
+
 
 2. Part 2 of the analysis seeks to determine if there is a correlation between smoking status and an increased risk of stroke for males over 20 years old.
 For part two of the analysis, only gender and smoking status are considered in determining the subset of the population from the dataset, looking at all males over the age of 20 to calculate the rate of stroke based on smoking status. There are a total of 855 male smokers and non-smokers in this population. Based on the data, there are 21 male smokers who had a stroke versus 25 male non-smokers who had a stroke.
 When calculating the rate of stroke based on smoking status, it was determined that the rate of stroke for non-smokers is 3%, while the rate of stroke for smokers is 2%. The additional statistical analysis with an independent t-test was performed, producing a p-value of 0.160. Because this is greater than a p-value of 0.05, this indicates very low correlation between smoking status and the risk of stroke.
+
+**Question 2, Graphic 4**
+![image](https://github.com/Rajeshwariradhakrishna/Stroke-Prediction-Analysis/assets/131278014/1872780a-d167-46eb-8372-ce8eba5918b9)
+
 
 **Research Question 3:** Are patients with hypertension vs patients with heart disease more likely to have a stroke?
 
@@ -76,6 +94,18 @@ When calculating the rate of stroke based on smoking status, it was determined t
 3. It's not necessarily mean that people who has hypertension/heart disease will definetly have a stroke. There can be other factors which can cause a stroke in people. But there is high likely chance that people with hypertension and heart disease will be at the biggest risk of having a stroke.
 
 4. Hypertesnion is the biggest risk factor for stroke. People with hypertension who got stroke is higher than people with heart disease who had stroke. People with hypertension had stroke is 62.8% and people with heart disease had a stroke is 37.2%.
+
+**Question 3, Graphic 1**
+![image](https://github.com/Rajeshwariradhakrishna/Stroke-Prediction-Analysis/assets/131278014/950f14a9-77e7-4280-8ece-8654bceedd8e)
+
+**Question 3, Graphic 2**
+![image](https://github.com/Rajeshwariradhakrishna/Stroke-Prediction-Analysis/assets/131278014/9fee54c1-786b-4a7b-9fb9-bdfc3741d18d)
+
+**Question 3, Graphic 3**
+![image](https://github.com/Rajeshwariradhakrishna/Stroke-Prediction-Analysis/assets/131278014/3da4e02a-9d07-475c-88af-75d586a59b4a)
+
+**Question 3, Graphic 4**
+![image](https://github.com/Rajeshwariradhakrishna/Stroke-Prediction-Analysis/assets/131278014/4e2e29a8-15a5-46f4-b538-932b8de67d79)
 
 
 **Data Limitations:**
