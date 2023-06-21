@@ -6,12 +6,19 @@
 **About the Dataset:**
 
 ID - A unique identifier for the patient.
+
 Gender - The gender of the patient (Male, Female, Other).
+
 Age - The age of the patient.
+
 Hypertension - Records if the patient has hypertension or not (0, 1).
+
 Heart Disease - Records if the patient has a heart disease or not (0, 1).
+
 Residence Type - What area the patient lives in (Rural, Urban).
+
 Smoking status - Records the smoking status of patient (formerly smoked, never smoked, smokes, Unknown).
+
 Stroke - Records if the patient has had a stroke or not (0, 1). This is the response variable we try to predict.
 
 **Project Description:**
